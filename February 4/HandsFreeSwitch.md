@@ -17,3 +17,5 @@ The default broken connection (both LEDs are off) can be switched to a complete 
 ![](GreenLED.jpeg)
 
 Although the principle is quite straightforward, I struggled to make the connection stable. At first, I used copper tape instead of aluminum foil, but it turned out that the LED sometimes did not come on. I did not realize that it was the material issue until I tried aluminum foil which makes the connection work well. The reason is that all areas of the aluminum foil are conductive while only one side of the copper tape is conductive. I also tried to control the wire by blowing, but when I tested it I realized that I could not determine the direction precisely and the wire was too heavy to blow.
+
+And [Here](https://www.youtube.com/watch?v=b7Tu7O0X4fA ) is my video :)
