@@ -4,7 +4,7 @@
 
 For my handless switch, I decided to control the circuit by a straw and my mouth. The scene I want to simulate is the light with a motion sensor in our daily life, which will come on when someone enters. The idea of the setting is inspired by the motion sensor light in one of the restrooms in C2.
 
-![](Broken Connection.jpeg)
+![](BrokenConnection.jpeg)
 
 I first retraced what we have done last week, and based on it, I added another LED to form a simple parallel circuit. I then built a small house using cardboard and the glue gun. The house has two rooms, one with a red LED on the roof, another with a green one. The breadboard is covered by the roof. The floor is made of the aluminum foil as the conductor.
 
