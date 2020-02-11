@@ -1,4 +1,4 @@
-##Description of My Project##
+**Description of My Project**
 
 For this second assignment, I decided to design a switch having four modes: three LEDs on, all off, blink, and alternative blink. The switch was controlled by a temporary button, but I programmed it to become a toggle button. To make the design be with multiple inputs, I utilized a potentiometer as another input to adjust the brightness of the LEDs when they are all on. 
 
