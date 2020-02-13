@@ -8,5 +8,5 @@ With that idea in mind, I started by making a schematic:
 The image of my Arduino:
 ![](arduino.jpeg)
 
-The default mode is all off, as I press the button, the three LEDs would come on and not be off even if I release the button. The code here is different from what we have done in class. I included a nested loop to do this. As I twisted the potentiometer clockwise, the three LEDs gradually faded. The following two modes can also be switched to by pressing the button. I tried the “switch” function to make the LEDs blink alternatively.
+The default mode is all off, as I press the button, the three LEDs would come on and not be off even if I release the button. The code here is different from what we have done in class. I included a nested loop to do this. As I twisted the potentiometer clockwise, the three LEDs gradually dimmed. The following two modes can also be switched to by pressing the button. I tried the “switch” function to make the LEDs blink alternatively.
 
