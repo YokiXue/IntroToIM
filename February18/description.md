@@ -8,7 +8,7 @@ With that idea in mind, I started by making a schematic:
 
 Based on it, I build my Arduino:
 
-
+![](circuit.jpeg)
 
 So far so good:)
 
