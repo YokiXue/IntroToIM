@@ -8,7 +8,9 @@ With that idea in mind, I started by making a schematic:
 
 Based on it, I build my Arduino:
 ![](circuit.jpeg)
-So far so good.
+
+
+So far so good:)
 
 However, troubles always occurred in the coding part. After I wrote the program according to my logic and ran it successfully, I found that the push-buttons didn't work. Even if I didn't press the button, the light would go on and the buzzer would sound. I kept modifying the details of my program, but the problem was not solved. I searched online, and one of the suggestions was to replace the INPUT in the setup with INPUT_PULLUP. Magically, the problem was solved. Although I read some explanations, I still had no idea what the difference was between the two INPUTS and why they would produce totally different results.
 
