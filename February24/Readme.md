@@ -6,7 +6,7 @@ In the circuit, I have five analog inputs (light sensors) and two outputs (buzze
 
 The schematic of my entire circuit is attached below:
 
-![](schematic.jpeg)
+![](schematic.png)
 
 The images of my overall project and electronics:
 
