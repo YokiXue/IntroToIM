@@ -1,4 +1,4 @@
-**Happy Birthday**
+**Happy Birthday!!**
 ===================
 
 Concept
@@ -23,7 +23,11 @@ Coding
 I didn't think the code for this project was too uncomplicated because we had learned most of it, but when I actually started writing the program, I still encountered a couple of problems. For example, multitasking: how to make buzzer and servo work without delay. Although the professor mentioned the millis( ) in class, I still couldn't really practice it, so I asked the professor and found some online tutorials, and finally, the two functions can happen without any delay.
 
 This is my code:
-
+![](code1.jpeg)
+![](code2.jpeg)
+![](code3.jpeg)
+![](code4.jpeg)
+![](code5.jpeg)
 
 Lessons Learnt
 -------------
