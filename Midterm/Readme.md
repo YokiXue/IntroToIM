@@ -34,8 +34,6 @@ Lessons Learned
 
 One major lesson that I learned through this project was that the physical device could be the most time-consuming part, especially if I want to make it look aesthetically pleasing. For this project, I spent more than five hours every day for three days but even that was not enough. At every step of making it, I faced some unexpected problems and it would take a lot of time to fix them. Also, To keep each component stable at where it should be, I used several small tools inside the box, such as wooden sticks and staples as shown in the image below, which also took me a lot of time.
 
-![](inside.png)
-![](wholeProject.png)
 Video
 ----------
 [Here](https://youtu.be/hPjaMqnN2Wc) is the video of the whole project : )
