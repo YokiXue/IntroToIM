@@ -22,6 +22,9 @@ Images
 Problems
 
 The biggest problem I had encountered was how to make the dots bounce back when they reached the edge of the circle. I first tried that the vector of location =location-velocity as shown below
+
+
 ![](wrong.jpeg)
+
 
 However, it did not work. Then I thought of multiplying the velocity by -1 and then adding it to the location, which solved the problem successfully.
