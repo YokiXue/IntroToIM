@@ -18,6 +18,8 @@ With that in mind, I started by creating a .txt file to include the lyrics and t
 In the void setup( ), I call two functions to display the parameter initialization and to get the text from the file. In void draw( ), I call the main function “Run( )” to start displaying. I have two nested functions within Run( ). One is to update the text constantly. When it detects new text needs to be displayed, it randomly generates colors, rotating and scaling effects. Another is to display text to the screen.
 
 The song is played from the web, and I experimented many times to let the lyrics come up just at the right time.
+
+
 Images
 ----------
 ![](image1.jpeg)
