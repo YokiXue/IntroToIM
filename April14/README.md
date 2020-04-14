@@ -12,7 +12,7 @@ This week's assignment was to do a data visualization or text generation, which 
 
 With that in mind, I started by creating a .txt file to include the lyrics and the exact duration time of each line, I split the imported text into two parts: display time and display content:
 
-
+![](lyrics.jpeg)
 
 
 In the void setup( ), I call two functions to display the parameter initialization and to get the text from the file. In void draw( ), I call the main function “Run( )” to start displaying. I have two nested functions within Run( ). One is to update the text constantly. When it detects new text needs to be displayed, it randomly generates colors, rotating and scaling effects. Another is to display text to the screen.
