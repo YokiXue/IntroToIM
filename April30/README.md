@@ -9,7 +9,7 @@ Video
 
 Description_1
 ----------
-This week's assignment was to do something cimages in Processing.The first is a forest adventure game for kids, which basically displays different scenes according to the player's choice, and overlays the pictures of the props on the background. In the code, I designed six scenarios, and the player presses different numbers on the keyboard to trigger the next development.
+This week's assignment was to do something creative with images in Processing. I did two programs. The first was a forest adventure game for kids, which basically displayed different scenes according to the player's choice, and overlaid the pictures of the props upon the background. In the code, I designed six scenarios, and the player presses different numbers on the keyboard to trigger the next development.
 
 
 Images_1
