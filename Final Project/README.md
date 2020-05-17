@@ -48,6 +48,6 @@ The biggest problem I encountered was that the lines of the dynamic scale would 
 
 Images
 ----------
-![](image5.jpeg)
-![](image6.jpeg)
-![](image7.jpeg)
+![](5.jpeg)
+![](6.jpeg)
+![](7.jpeg)
