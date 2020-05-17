@@ -24,7 +24,7 @@ Steps:
 
 Images
 ----------
-![](image1.jpeg)
+![](1.jpeg)
 ![](image2.jpeg)
 ![](image3.jpeg)
 ![](image4.jpeg)
