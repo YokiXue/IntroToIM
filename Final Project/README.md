@@ -2,6 +2,8 @@
 ===================
 
 The final assignment for this semester is to do a comprehensive project integrating all the skills we have learned about processing. Inspired by a Java advert's GIF, which had a collection of randomly moving balls that form four letters:"JAVA", I decided to do reproduce a similar dynamic effect but with more interaction. After I was almost done with this project, I found that it did not involve the sound part, so I did a second project focusing on playing and visualizing sound. When I play a song using an app on my phone, the album cover of that song would rotate along with the music on the interface, like a traditional CD player. So I wanted to do something similar with Processing.
+
+
 Video
 ----------
 [Here](https://youtu.be/4GvdfF2RK6Y) is the video of "Balls with love"
